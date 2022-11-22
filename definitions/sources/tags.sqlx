@@ -1,6 +1,6 @@
 config {
  type: "declaration",
- database: "dataform-test",
+ database: "dataform-test-368716",
  schema: "external_tables",
  name: "tags"
 }
